@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+}
+
+
+.CABEÇALHO{
+    color: azure;
+    background-color: #05253a;
+}
+.base{
+
+    background-image:  linear-gradient( #05253a,#1070B5);
+    
+}
