@@ -2,13 +2,26 @@
 padding: 0;
 }
 
+.base{
+    
+    background-color: rgb(32, 35, 65);
+     
+ }
 
 .CABEÇALHO{
     color: azure;
-    background-color: #05253a;
-}
-.base{
+    background-color: #041d3a;
+    display: flex;
+    justify-content: center;}
 
-    background-image:  linear-gradient( #05253a,#1070B5);
-    
+.foto-cabeçalho{
+   width: 10%;
+
+}
+
+.head{
+
+    color: aliceblue;
+
+
 }
