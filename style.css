@@ -4,8 +4,8 @@ padding: 0;
 
 .base{
     
-    background-color: rgb(32, 35, 65);
-     
+background-image: linear-gradient(#05253a , #1070b5);
+
  }
 
 .CABEÇALHO{
@@ -22,6 +22,21 @@ padding: 0;
 .head{
 
     color: aliceblue;
+
+
+}
+.fotodaescola{
+
+    width: 50%;
+
+
+}
+.texto{
+
+display: flex;
+justify-content: space-between;
+color: azure;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 
 }
